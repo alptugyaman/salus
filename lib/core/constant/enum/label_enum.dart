@@ -1,0 +1,1 @@
+enum MessageState { NEW, WAITING, MEETING, JOURNEY, CAREING, UNKNOWN }

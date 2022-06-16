@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "729177706310",
+    "project_id": "salus-dcb11",
+    "storage_bucket": "salus-dcb11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729177706310:android:8c1689e802188ad537df47",
+        "android_client_info": {
+          "package_name": "com.salus.mental"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729177706310-7j84l5e8d9ffakbeungna9pq49m6gml5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ64Bcv1TMN2up5D5Nple6Sf3fsML1FOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729177706310-7j84l5e8d9ffakbeungna9pq49m6gml5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "729177706310-japer2mqniolait7plu0b7f4n2gaagmc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.salus.mental"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
